@@ -21,7 +21,7 @@ const client = new Client({
     ] 
 });
 const TOKEN =
-    'MTA0MjQ2MjQ2NzcwNTU0MDYwOQ.GFmClw.jvi6Jt1F0lQS7IUdJDKnvlfErflcU9W7rURYIY';
+    '';
 
 client.on("ready", () => {
     console.log("bot opéationnel")
